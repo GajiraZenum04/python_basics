@@ -1,21 +1,21 @@
 num_1 = 7
 num_2 = 2.25
 
-print(7 + 2.25)
-print(7 - 2.25)
-print(7 * 2.25)
-print(7 / 2.25)
-print(7 // 2.25)
-print(7 ** 2.25)
-print(7 % 2.25)
+print(num_1 + num_2)
+print(num_1 - num_2)
+print(num_1 * num_2)
+print(num_1 / num_2)
+print(num_1 // num_2)
+print(num_1 ** num_2)
+print(num_1 % num_2)
 
 print((10 + 3) * 2 ** 2 / 4 - 1)
 
 
 print(abs(-15))
 
-print(round(2.25, 1))
-print(round(2.25, 2))
+print(round(num_2, 1))
+print(round(num_2, 2))
 
 print(num_1 == num_2)
 print(num_1 != num_2)
