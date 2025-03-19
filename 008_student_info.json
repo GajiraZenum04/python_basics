@@ -1,0 +1,23 @@
+{
+	"name": "Hannah",
+	"age": 17,
+	"class": "grade eight",
+	"subjects":["Maths","Physics","Computer","Government"],
+	"contact details":{"phone":+2349132492873,"email":"hannahzenum01@gmail.com"}
+}
+
+{
+	"name": "Grace",
+	"age": 17,
+	"class": "grade eight",
+	"subject":["Biology","Chemistry","English"],
+	"contact details":{"phone":+2348117025615,"email":"harunagrace01@gmail.com"}
+}
+
+{
+	"name": "Joy",
+	"age": 17,
+	"class": "grade eight",
+	"subject":["Biology","Chemistry","English"],
+	"contact details":{"phone":+2348148488372,"email":"joyilliya01@gmail.com"}
+}
