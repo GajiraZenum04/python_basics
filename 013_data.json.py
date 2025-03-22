@@ -1,8 +1,1 @@
-{
-        "id": 3,
-        "name": "Grace",
-        "gender": "Female",
-        "department": "Mass Communication",
-        "school": "Ambrose Alli University",
-
-}        
+{"id": 3, "name": "Grace", "gender": "Female", "department": "Mass Communication", "school": "Ambrose Alli University"}       
