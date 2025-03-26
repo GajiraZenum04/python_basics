@@ -27,3 +27,5 @@ user_dict = {
 
 with open("015_register.json", "w") as my_file:
     json.dump(user_dict, my_file)
+print(user_dict)
+
