@@ -4,9 +4,10 @@ def greet_users():
 greet_users()
 
 def add_numbers(a, b):
-    c= a + b
-    add_numbers(5, 7)
-    print(c)
+    x= a + b
+    print(x)
+add_numbers(5, 7)
+    
 
 def multiply_numbers(a, b):
     return a * b
