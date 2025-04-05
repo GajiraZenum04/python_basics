@@ -1,0 +1,72 @@
+[
+  {
+    "ID":1,
+    "TITLE":"To kill a mocking bird",
+    "AUTHOR":"Harper Lee",
+    "YEAR OF PUBLICATION":1960,
+    "PRICE":10.99
+  },
+  {
+    "ID":2,
+    "TITLE":1984,
+    "AUTHOR":"George Orwell",
+    "YEAR OF PUBLICATION":1946,
+    "PRICE":9.99
+  },
+  {
+    "ID":3,
+    "TITLE":"Becoming",
+    "AUTHOR":"Michelle Obama",
+    "YEAR OF PUBLICATION":2018,
+    "PRICE":14.99
+  },
+  {
+    "ID":4,
+    "TITLE":"Atomic Habits",
+    "AUTHOR":"James Clear",
+    "YEAR OF PUBLICATION":2018,
+    "PRICE":13.5
+  },
+  {
+    "ID":5,
+    "TITLE":"Half of a Yellow Sun ",
+    "AUTHOR":"Chimamanda Ngozi Adichie",
+    "YEAR OF PUBLICATION":2006,
+    "PRICE":12.99
+  },
+  {
+    "ID":6,
+    "TITLE":"Sapiens:A Brief History of HumanKind",
+    "AUTHOR":"Yuval Noah Harari",
+    "YEAR OF PUBLICATION":2011,
+    "PRICE":16.99
+  },
+  {
+    "ID":7,
+    "TITLE":"The Alchemist",
+    "AUTHOR":"Paulo Coelho",
+    "YEAR OF PUBLICATION":1988,
+    "PRICE":11.0
+  },
+  {
+    "ID":8,
+    "TITLE":"Purple Hibiscus",
+    "AUTHOR":"Chimamanda Ngozi Adichie",
+    "YEAR OF PUBLICATION":2003,
+    "PRICE":11.5
+  },
+  {
+    "ID":9,
+    "TITLE":"The 5 Love Language ",
+    "AUTHOR":"Gary Chapman",
+    "YEAR OF PUBLICATION":1992,
+    "PRICE":9.5
+  },
+  {
+    "ID":10,
+    "TITLE":"Rich Dad Poor Dad",
+    "AUTHOR":"Robert T. Kiyosaki",
+    "YEAR OF PUBLICATION":1997,
+    "PRICE":8.99
+  }
+]
